@@ -1,6 +1,6 @@
 # Mina zkApp: Oracle
 
-This template uses TypeScript.
+This template uses TypeScript
 
 ## How to build
 
